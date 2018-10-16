@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
+	ios::sync_with_stdio(false);
+	cin.tie(null);
 	int t, temp, i, j, n, m, sum, low;
 	cin>>t;
 	while(t--){
